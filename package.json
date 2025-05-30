@@ -41,5 +41,8 @@
   "strapi": {
     "uuid": "4a3d327a-19f0-452f-b22b-5558809510b8",
     "installId": "37b14b2dea475500326e8fd23cebd39c346981f8b79ec36230ac4a63e6647712"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "latest"
   }
 }
